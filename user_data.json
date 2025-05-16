@@ -1,0 +1,6 @@
+{
+  "smtp_server":"",
+  "mail_from":"",
+  "mail_pass": "",
+  "mail_to": ""
+}
